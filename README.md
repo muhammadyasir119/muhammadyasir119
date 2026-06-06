@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning **DSA with Python**
 - 💻 I love problem solving & coding
-- 🎯 Goal: Become a Software Engineer
+- 🎯 Goal: Become a AI Engineer
 - 📫 How to reach me: yasirrashid125@gmail.com
 
 ---
