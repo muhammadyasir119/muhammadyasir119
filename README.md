@@ -28,9 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
 </div>
+
 ## 📊 Data Visualization
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
+</div>
 
 ## 📊 GitHub Stats
 <p align="center">
