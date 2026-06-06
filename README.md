@@ -60,7 +60,7 @@
 
 ## 🌐 Connect with me
 <p>
-<a href="https://linkedin.com/in/M.YASIR KHAN">LinkedIn</a> • 
+<a href="linkedin.com/in/m-yasir-khan-50954029a/in/M.YASIR KHAN">LinkedIn</a> • 
 <a href="https://github.com/muhammadyasir119">GitHub</a>
 </p>
 
