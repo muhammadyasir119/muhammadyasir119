@@ -60,8 +60,8 @@
 
 ## 🌐 Connect with me
 <p>
-<a href="https://linkedin.com/in/yourprofile">LinkedIn</a> • 
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+<a href="https://linkedin.com/in/M.YASIR KHAN">LinkedIn</a> • 
+<a href="https://github.com/muhammadyasir119">GitHub</a>
 </p>
 
 ---
