@@ -12,13 +12,14 @@
 ---
 
 ## 🛠️ Languages & Tools
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>---
 
 ## 📊 GitHub Stats
 <p align="center">
