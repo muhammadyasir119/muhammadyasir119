@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **DSA with Python**
 - 💻 I love problem solving & coding
 - 🎯 Goal: Become a Software Engineer
-- 📫 How to reach me: your-email@gmail.com
+- 📫 How to reach me: yasirrashid125@gmail.com
 
 ---
 
