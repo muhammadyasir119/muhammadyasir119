@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+I'm+M.YASIR+;DSA+Learner;Python+Developer;Future+Software+Engineer" />
-</h1>
+# Hi there, I'm Yasir 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Yasir;Python+Developer;DSA+Learner;Machine+Learning+Engineer" />
+</p>
 ---
 
 ## 🚀 About Me
