@@ -1,7 +1,5 @@
-# Hi there, I'm Yasir 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Yasir;Python+Developer;DSA+Learner;Machine+Learning+Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=200&section=header&text=Yasir&fontSize=50&fontColor=ffffff" />
 </p>
 ---
 
