@@ -24,6 +24,12 @@
 - Docker (learning)
 - AWS (learning)
 
+## 📂 Projects
+
+- 🔐 FastAPI Auth System (coming soon)
+- 📋 Task Manager API (coming soon)
+- 🛒 E-commerce Backend (coming soon)
+
 ### Programming Languages
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
 
