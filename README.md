@@ -17,6 +17,13 @@
 
 ## 🛠 Skills
 
+- Python
+- FastAPI
+- PostgreSQL
+- Git & GitHub
+- Docker (learning)
+- AWS (learning)
+
 ### Programming Languages
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
 
