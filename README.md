@@ -13,8 +13,6 @@
 - 🛠️ Currently building real-world API projects
 - 🤖 Learning Machine Learning alongside backend
 - 🎯 Goal: Become an AI Engineer with strong backend skills
-- 📫 How to reach me: yasirrashid125@gmail.com
-
 ---
 
 ## 🛠 Skills
