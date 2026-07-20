@@ -28,7 +28,7 @@ Goal: Become an AI Engineer with strong backend skills.
 - Git & GitHub
   
 
-### Programming Languages
+## Programming Languages
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
