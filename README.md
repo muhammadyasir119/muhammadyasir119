@@ -16,7 +16,7 @@ Goal: Become an AI Engineer with strong backend skills.
 
 ## 📫 Contact
 
-- Email: yourmail@gmail.com
+- Email: yasirrashid125@gmail.com
 - GitHub: github.com/muhammadyasir119
 ---
 ## ⚡ Skills
@@ -27,11 +27,6 @@ Goal: Become an AI Engineer with strong backend skills.
 - PostgreSQL (Basic Queries)
 - Git & GitHub
   
-## 📂 Projects
-
-- 🔐 FastAPI Auth System (coming soon)
-- 📋 Task Manager API (coming soon)
-- 🛒 E-commerce Backend (coming soon)
 
 ### Programming Languages
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
