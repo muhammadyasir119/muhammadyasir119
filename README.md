@@ -6,27 +6,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Backend+Developer+(Python+FastAPI);Building+APIs;Learning+AI+ML;Building+Real+World+Projects" />
 </p>
 ---
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Software Engineering Student
-- 💻 Focused on Backend Development (Python, FastAPI)
-- 🛠️ Currently building real-world API projects
-- 🤖 Learning Machine Learning alongside backend
-- 🎯 Goal: Become an AI Engineer with strong backend skills
--
+I am a Python developer focused on automation and web scraping.
+Currently learning backend development and AI engineering.
+
+Goal: Become an AI Engineer with strong backend skills.
+
 ## 📫 Contact
-- Email: yasirrashid125@gmail.com
+
+- Email: yourmail@gmail.com
+- GitHub: github.com/muhammadyasir119
 ---
+## ⚡ Skills
 
-## 🛠 Skills
-
-- Python
-- FastAPI
-- PostgreSQL
+- Python (Automation, Scripting)
+- Web Scraping (BeautifulSoup, Selenium)
+- FastAPI (Basics)
+- PostgreSQL (Basic Queries)
 - Git & GitHub
-- Docker (learning)
-- AWS (learning)
-
+  
 ## 📂 Projects
 
 - 🔐 FastAPI Auth System (coming soon)
