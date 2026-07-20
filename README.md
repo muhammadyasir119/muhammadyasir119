@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Backend+Developer+(Python+FastAPI);Building+APIs;Learning+AI+ML;Building+Real+World+Projects" />
 </p>
----
+
 
 ## 👨‍💻 About Me
 
