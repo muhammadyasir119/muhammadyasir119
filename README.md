@@ -69,13 +69,6 @@ Goal: Become an AI Engineer with strong backend skills.
 
 ---
 
-## 🌐 Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/m-yasir-khan-50954029a">LinkedIn</a> • 
-  <a href="https://github.com/muhammadyasir119">GitHub</a>
-</p>
----
 
 ## 🌐 Connect with me
 <p>
