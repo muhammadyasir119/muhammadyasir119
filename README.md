@@ -63,8 +63,18 @@ Goal: Become an AI Engineer with strong backend skills.
 ---
 
 ## 📈 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyasir119&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.pw/api/top-langs/?username=muhammadyasir119&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
+---
+
+## 🌐 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/m-yasir-khan-50954029a">LinkedIn</a> • 
+  <a href="https://github.com/muhammadyasir119">GitHub</a>
+</p>
 ---
 
 ## 🌐 Connect with me
