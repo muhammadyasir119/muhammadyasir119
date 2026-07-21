@@ -62,9 +62,10 @@ Goal: Become an AI Engineer with strong backend skills.
 </p>
 ---
 
-## 📈 Most Used Languages
+## 📊 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.pw/api/top-langs/?username=muhammadyasir119&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyasir119&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
