@@ -16,6 +16,7 @@ I specialize in building production-ready **FastAPI backends**, **web scrapers**
 ---
 ### 🌟 Featured Repositories
 - 🛠️ **[Async Data Processing API Engine](https://github.com/muhammadyasir119/async-data-processing-api)**: High-performance data pipeline using FastAPI, Pandas, & Docker.
+- 📊 **[Job Market Analytics API](https://github.com/muhammadyasir119/job-market-analytics-api)**: Automated extraction engine & RESTful API for tech job market analytics with FastAPI & MySQL.
 - 🛒 **[Automated E-Commerce Price Tracker](https://github.com/muhammadyasir119/ecommerce-price-tracker)**: Web scraping engine to monitor product prices, stock, and ratings.
 ---
 
