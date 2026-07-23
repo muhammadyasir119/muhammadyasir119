@@ -1,97 +1,26 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=M.YASIR&fontSize=50&fontColor=ffffff" />
-</p>
+# Hi there, I'm Yasir 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Backend+Developer+(Python+FastAPI);Building+APIs;Learning+AI+ML;Building+Real+World+Projects" />
-</p>
+### 🚀 Python Developer | FastAPI Backend, Web Scraping & Data Engineering
 
-
-## 👨‍💻 About Me
-
-I am a Python developer focused on automation and web scraping.
-Currently learning backend development and AI engineering.
-
-Goal: Become an AI Engineer with strong backend skills.
-
-## 📫 Contact
-
-- Email: yasirrashid125@gmail.com
-- GitHub: github.com/muhammadyasir119
----
-## ⚡ Skills
-
-- Python (Automation, Scripting)
-- Web Scraping (BeautifulSoup, Selenium)
-- FastAPI (Basics)
-- PostgreSQL (Basic Queries)
-- Git & GitHub
-  
-## 🛠️ Languages & Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-## 🛠 Tools & Libraries
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-</div>
-
-## 📊 Data Visualization
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
-</div>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadyasir119&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadyasir119&theme=tokyonight" />
-</p>
-
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyasir119&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+I specialize in building production-ready **FastAPI backends**, **web scrapers**, and **automated data pipelines**. I transform raw data into structured, scalable systems and robust REST APIs.
 
 ---
 
+### 💻 Tech Stack
+- **Languages:** Python 3.11+, SQL
+- **Backend & APIs:** FastAPI, REST APIs, SQLAlchemy, Pydantic
+- **Web Scraping & Automation:** Playwright, Scrapy, BeautifulSoup, Selenium
+- **Data Engineering:** Pandas, NumPy, Data Cleaning & Pipeline Automation
+- **DevOps & Databases:** Docker, PostgreSQL, SQLite, Git, GitHub
 
-## 🌐 Connect with me
-<p>
-<a href="https://www.linkedin.com/in/m-yasir-khan-50954029a">LinkedIn</a> • 
-<a href="https://github.com/muhammadyasir119">GitHub</a>
-</p>
+---
 
+### 🌟 Featured Repository
+- 🛠️ **[Async Data Processing API Engine](https://github.com/muhammadyasir119/async-data-processing-api)**: High-performance data pipeline using FastAPI, Pandas, & Docker.
 
+---
 
-## ⚡ Fun Quote
-> “Consistency is more important than perfection.”
-
-<!--
-**muhammadyasir119/muhammadyasir119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/m-yasir-khan-50954029a/
+- **Upwork:** https://www.upwork.com/freelancers/~01b60353c6f1506287
+- **Email:** yasirrashid125@gmail.com
