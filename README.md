@@ -14,10 +14,9 @@ I specialize in building production-ready **FastAPI backends**, **web scrapers**
 - **DevOps & Databases:** Docker, PostgreSQL, SQLite, Git, GitHub
 
 ---
-
-### 🌟 Featured Repository
+### 🌟 Featured Repositories
 - 🛠️ **[Async Data Processing API Engine](https://github.com/muhammadyasir119/async-data-processing-api)**: High-performance data pipeline using FastAPI, Pandas, & Docker.
-
+- 🛒 **[Automated E-Commerce Price Tracker](https://github.com/muhammadyasir119/ecommerce-price-tracker)**: Web scraping engine to monitor product prices, stock, and ratings.
 ---
 
 ### 📫 Connect With Me
