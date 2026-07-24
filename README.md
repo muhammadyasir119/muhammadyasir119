@@ -23,4 +23,5 @@ I specialize in building production-ready **FastAPI backends**, **web scrapers**
 ### 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/m-yasir-khan-50954029a/
 - **Upwork:** https://www.upwork.com/freelancers/~01b60353c6f1506287
+-  **Fiverr:** https://www.fiverr.com/s/NN7e3WR
 - **Email:** yasirrashid125@gmail.com
